@@ -3,7 +3,7 @@
 ## Description
 After my internship at NASA Ames Research Center in California, I got the idea of building the NASA meatball logo in LEGO. I designed the painting first in Bricklink Studio. The picture below displays a rendering from the software.
 
-![Rendering](NASA_painting_render.png)
+![Rendering](NASA_painting_render.jpg)
 
 I then built it with real pieces (see result below).
 
