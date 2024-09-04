@@ -5,7 +5,7 @@ After my internship at NASA Ames Research Center in California, I got the idea o
 
 ![Rendering](NASA_painting_render.jpg)
 
-I then built it with real pieces (see result below).
+I then built it with real pieces (see result below). I had to make the black frame a bit wider because I didn't have enough white plates.
 
 ![Wall](on_the_wall.jpg)
 
